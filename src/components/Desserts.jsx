@@ -1,4 +1,4 @@
-import DATA from "../../data.js";
+import DATA from "../../DATA.js";
 import Product from "./Product.jsx";
 
 export default function Desserts({
